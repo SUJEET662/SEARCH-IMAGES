@@ -54,15 +54,18 @@ To use the Unsplash API, follow these steps:
      const apiKey = "YOUR_API_KEY"; // Replace with your actual Unsplash API key
 
 🏆 Credits
+
 This project uses images from Unsplash via their free API.
 
 1. Unsplash API Documentation: https://unsplash.com/developers
 2. Special thanks to Unsplash for providing access to high-quality images! 🙌
 
 🤝 Contributing
+
 Contributions are welcome! If you find any issues or want to improve this project, feel free to fork and submit a pull request.
 
 📜 License
+
 This project is licensed under the MIT License. Feel free to modify and use it for your personal or commercial projects.
 
 
