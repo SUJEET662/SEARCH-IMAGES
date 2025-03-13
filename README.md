@@ -51,16 +51,23 @@ To use the Unsplash API, follow these steps:
 
  1. Get an API Key from Unsplash Developers.
  2. Replace YOUR_API_KEY in script.js with your actual API key.
-     const apiKey = "YOUR_API_KEY"; // Replace with your actual Unsplash API key
+    
+          const apiKey = "YOUR_API_KEY";
+
+---
 
 🏆 Credits
    This project uses images from Unsplash via their free API.
 
       Unsplash API Documentation: https://unsplash.com/developers
-      Special thanks to Unsplash for providing access to high-quality images! 🙌
+   Special thanks to Unsplash for providing access to high-quality images! 🙌
+
+---
 
 🤝 Contributing
       Contributions are welcome! If you find any issues or want to improve this project, feel free to fork and submit a pull request.
+
+---
 
 📜 License
       This project is licensed under the MIT License. Feel free to modify and use it for your personal or commercial projects.
